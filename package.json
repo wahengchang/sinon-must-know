@@ -1,0 +1,22 @@
+{
+  "name": "sinon-must-know",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahengchang/sinon-must-know.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahengchang/sinon-must-know/issues"
+  },
+  "homepage": "https://github.com/wahengchang/sinon-must-know#readme",
+  "dependencies": {
+    "sinon": "^4.1.2"
+  }
+}
